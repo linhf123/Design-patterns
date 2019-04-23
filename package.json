@@ -1,0 +1,20 @@
+{
+  "name": "Design-patterns",
+  "version": "1.0.0",
+  "description": "Share once summarize for Learning JavaScript Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Overcase/Design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Overcase/Design-patterns/issues"
+  },
+  "homepage": "https://github.com/Overcase/Design-patterns#readme"
+}
