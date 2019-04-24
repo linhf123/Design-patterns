@@ -110,7 +110,6 @@ JavaScript本身是基础原型模式设计，天生就有面向对象特性的�
 <a name="ea6f3b87"></a>
 ## 参考链接
 
----
 
 * [JavaScript 设计模式与实践](https://book.douban.com/subject/26382780/), by 曾探
 * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide), by 阮一峰
