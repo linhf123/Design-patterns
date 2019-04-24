@@ -4,6 +4,7 @@
   "description": "Share once summarize for Learning JavaScript Design Patterns",
   "main": "index.js",
   "scripts": {
+    "node": "node ./test.js NODE_ENV=linhf",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
