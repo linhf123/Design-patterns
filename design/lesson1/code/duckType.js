@@ -1,4 +1,4 @@
-// dog typing  鸭子类型
+// duck typing  鸭子类型
 const duck = {
   duckSingin () {
     console.log('ga ga ga');
