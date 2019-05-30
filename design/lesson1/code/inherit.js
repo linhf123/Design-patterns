@@ -1,7 +1,7 @@
 // get moreStatic for use inherit
 // 使用继承获得多态
 
-// first create once abstract class in Animal
+// first create once abstract class of Animal
 // 首先创建一个 Animal 抽象类
 
 class Animal {
