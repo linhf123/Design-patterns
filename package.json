@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Overcase/Design-patterns/issues"
   },
-  "homepage": "https://github.com/Overcase/Design-patterns#readme"
+  "homepage": "https://github.com/Overcase/Design-patterns#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
